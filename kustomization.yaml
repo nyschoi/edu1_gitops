@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: nyschoi.azurecr.io/nyschoi/edu1
+- name: cysfreeregistry.azurecr.io/nyschoi/edu1
   newTag: "v1"
