@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: icishub.azurecr.io/shclub/edu1
+- name: nyschoi.azurecr.io/nyschoi/edu1
   newTag: "v1"
